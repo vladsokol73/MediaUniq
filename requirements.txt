@@ -1,0 +1,5 @@
+Flask==2.1.1
+Pillow==10.2.0
+werkzeug==2.1.2
+requests==2.27.1
+gunicorn==21.2.0
